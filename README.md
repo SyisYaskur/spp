@@ -37,7 +37,7 @@ Aplikasi ini dikembangkan sebagai solusi digitalisasi pembayaran SPP agar lebih 
 ## 📞 Kontak
 
 Untuk informasi lebih lanjut, hubungi:
-- 📧 Email: [email@example.com] (sesuaikan)
+- 📧 Email: [yaskurkurnia@gmail.com]
 - 🌐 Website: [https://spp.syistem.site/](https://spp.syistem.site/)
 
 ---
