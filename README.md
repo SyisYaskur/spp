@@ -1,7 +1,5 @@
 # Aplikasi Pembayaran SPP
 
-![SPP Syistem Site](https://spp.syistem.site/)
-
 Website ini adalah aplikasi berbasis web untuk mengelola pembayaran SPP secara online. Dibangun untuk mempermudah proses administrasi sekolah, pencatatan pembayaran, dan pelaporan data keuangan.
 
 ## ✨ Fitur Utama
